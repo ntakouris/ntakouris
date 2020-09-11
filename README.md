@@ -11,6 +11,8 @@
 [<img align="left" alt="ntakour.is" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Theodoros Ntakouris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br />
+
 ### Github Status
 <img align="left" alt="@ntakouris Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ntakouris&show_icons=true&hide_border=true" />
 
@@ -19,6 +21,8 @@
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<br />
 
 ### Spotify Playing 🎧
 [<img align="left" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/sv9ylxlw0bjl7d2gqezpg1qvi)
