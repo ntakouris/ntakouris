@@ -1,6 +1,6 @@
 ### 🛸 Welcome Aboard 🛸
 
-[Website](https://ntakour.is)
+[![Website](https://img.shields.io/website?label=ntakour.is&style=for-the-badge&url=https%3A%2F%2Fntakour.is)](https://ntakour.is)
 
 - 📫 Drop me an email at: `hi@ntakour.is`
 - ⚡ Fun fact: I wrote my first line of hello world Java code, on my `12th` birthday!
@@ -10,6 +10,8 @@
 
 [<img align="left" alt="ntakour.is" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Theodoros Ntakouris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+---
 
 <summary>:zap: Github Stats</summary>
 <img align="left" alt="ntakouris's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ntakouris&show_icons=true&hide_border=true" />
