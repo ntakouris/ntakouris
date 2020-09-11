@@ -9,12 +9,9 @@
 [<img align="left" alt="Theodoros Ntakouris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br /><br />
-<img alt="@ntakouris Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ntakouris&show_icons=true&hide_border=true" />
+<img display="inline-block" alt="@ntakouris Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ntakouris&show_icons=true&hide_border=true" />
 
 <br /><br />
-📊 **This week I spent my time on**
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
