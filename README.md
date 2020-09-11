@@ -11,9 +11,6 @@
 [<img align="left" alt="ntakour.is" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Theodoros Ntakouris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
----
-
-### Github Stats
 <img align="left" alt="ntakouris's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ntakouris&show_icons=true&hide_border=true" />
 
 📊 **This week I spent my time on**
