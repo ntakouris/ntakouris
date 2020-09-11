@@ -1,6 +1,6 @@
 ### 🛸 Welcome Aboard 🛸
 
-<small>Curiosity X Creativity X Contribution</small>
+__Curiosity X Creativity X Contribution__
 
 [![Personal Website](https://img.shields.io/website?label=ntakour.is&style=for-the-badge&url=https%3A%2F%2Fntakour.is)](https://ntakour.is)
 
@@ -22,7 +22,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<br />
+<br /><br />
 
 ### Spotify Playing 🎧
 [<img align="left" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/sv9ylxlw0bjl7d2gqezpg1qvi)
