@@ -13,7 +13,7 @@ __Curiosity X Creativity X Contribution__
 
 <br />
 <br />
-<img align="left" alt="@ntakouris Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ntakouris&show_icons=true&hide_border=true" />
+<img alt="@ntakouris Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ntakouris&show_icons=true&hide_border=true" />
 
 <br /><br />
 
