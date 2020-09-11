@@ -7,7 +7,7 @@ __Curiosity X Creativity X Contribution__
 - 📫 Drop me an email at: `hi@ntakour.is`
 - ⚡ Fun fact: I wrote my first line of hello world Java code, on my `12th` birthday!
 
-### Connect At
+### Find Me At
 [<img align="left" alt="ntakour.is" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Theodoros Ntakouris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -25,7 +25,7 @@ __Curiosity X Creativity X Contribution__
 <br /><br />
 
 ### Spotify Playing 🎧
-[<img align="left" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/sv9ylxlw0bjl7d2gqezpg1qvi)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/sv9ylxlw0bjl7d2gqezpg1qvi)
 
 [website]: https://ntakour.is
 [linkedin]: https://www.linkedin.com/in/theodoros-ntakouris/
