@@ -1,6 +1,6 @@
 ### 🛸 Welcome Aboard 🛸
 
-__Curiosity X Creativity X Contribution__
+*Curiosity X Creativity X Contribution*
 
 [![Website](https://img.shields.io/website?label=website&style=for-the-badge&url=https%3A%2F%2Fntakour.is)](https://ntakour.is)
 
