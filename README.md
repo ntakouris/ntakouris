@@ -2,7 +2,7 @@
 
 __Curiosity X Creativity X Contribution__
 
-[![Personal Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2FPntakour.is](https://ntakour.is)
+[![Website](https://img.shields.io/website?label=website&style=for-the-badge&url=https%3A%2F%2Fntakour.is)](https://ntakour.is)
 
 - 📫 Drop me an email at: `hi@ntakour.is`
 - ⚡ Fun fact: I wrote my first line of hello world Java code, on my `12th` birthday!
