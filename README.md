@@ -13,7 +13,7 @@
 
 ---
 
-<summary>:zap: Github Stats</summary>
+### Github Stats
 <img align="left" alt="ntakouris's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ntakouris&show_icons=true&hide_border=true" />
 
 📊 **This week I spent my time on**
