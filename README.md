@@ -2,7 +2,7 @@
 
 *Curiosity X Creativity X Contribution*
 
-[![Website](https://img.shields.io/website?label=website&style=for-the-badge&url=https%3A%2F%2Fntakour.is)](https://ntakour.is)
+[![Website](https://img.shields.io/website?label=website&style=for-the-badge&url=https%3A%2F%2Fntakour.is)](https://ntakour.is) <br />
 [![Linkedin: theodoros-ntakouris](https://img.shields.io/badge/-Theodoros%20Ntakouris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/theodoros-ntakouris/)](https://www.linkedin.com/in/theodoros-ntakouris/)
 
 - 📫 Drop me an email at: `hi@ntakour.is`
