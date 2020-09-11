@@ -11,10 +11,8 @@ __Curiosity X Creativity X Contribution__
 [<img align="left" alt="ntakour.is" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Theodoros Ntakouris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+<br /><br />
 <img alt="@ntakouris Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ntakouris&show_icons=true&hide_border=true" />
-
-<br />
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
@@ -24,8 +22,7 @@ __Curiosity X Creativity X Contribution__
 - [Understanding ML In Production: A Crash Course](https://medium.com/@zarkopafilis/understanding-ml-in-production-a-crash-course-65c9be6d7207?source=rss-a030fa2f6701------2)
 - [Understanding ML In Production: On Apache Beam](https://medium.com/swlh/understanding-ml-in-production-on-apache-beam-e32610d76b12?source=rss-a030fa2f6701------2)
 <!-- BLOG-POST-LIST:END -->
-
-<br /><br />
+<br />
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/sv9ylxlw0bjl7d2gqezpg1qvi)
