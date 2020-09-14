@@ -3,8 +3,8 @@
 *Curiosity X Creativity X Contribution*
 
 [![](https://vistr.dev/badge?repo=ntakouris.ntakouris&corners=square)](https://github.com/ntakouris)
-[![](https://img.shields.io/badge/-Nick%20Chapsas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/theodoros-ntakouris/)](https://www.linkedin.com/in/theodoros-ntakouris/)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=chapsas.com&url=https%3A%2F%2Fntakour.is)](https://ntakour.is)
+[![](https://img.shields.io/badge/-Theodoros%20Ntakouris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/theodoros-ntakouris/)](https://www.linkedin.com/in/theodoros-ntakouris/)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=ntakour.is&url=https%3A%2F%2Fntakour.is)](https://ntakour.is)
 
 - 📫 Drop me an email at: `hi@ntakour.is`
 - ⚡ Fun fact: I wrote my first line of hello world Java code, on my `12th` birthday!
