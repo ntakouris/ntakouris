@@ -13,11 +13,11 @@
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Structuring ML Pipeline Projects](https://towardsdatascience.com/structuring-ml-pipeline-projects-97c16348be4a?source=rss-a030fa2f6701------2)
 - [Deep Learning End to End Pipelines made easy with Fluent Tensorflow Extended](https://towardsdatascience.com/deep-learning-end-to-end-pipelines-made-easy-with-fluent-tensorflow-extended-2a26f5d5817?source=rss-a030fa2f6701------2)
 - [A comprehensive ML Metadata walkthrough for Tensorflow Extended](https://towardsdatascience.com/a-comprehensive-ml-metadata-walkthrough-for-tensorflow-extended-953230770867?source=rss-a030fa2f6701------2)
 - [Tensorflow Extended, ML Metadata and Apache Beam on the Cloud](https://towardsdatascience.com/tensorflow-extended-ml-metadata-and-apache-beam-on-the-cloud-2e4fce035f69?source=rss-a030fa2f6701------2)
 - [Understanding ML In Production: A Crash Course](https://medium.com/@zarkopafilis/understanding-ml-in-production-a-crash-course-65c9be6d7207?source=rss-a030fa2f6701------2)
-- [Understanding ML In Production: On Apache Beam](https://medium.com/swlh/understanding-ml-in-production-on-apache-beam-e32610d76b12?source=rss-a030fa2f6701------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Spotify Playing 🎧
