@@ -19,6 +19,3 @@
 - [Structuring ML Pipeline Projects](https://towardsdatascience.com/structuring-ml-pipeline-projects-97c16348be4a?source=rss-a030fa2f6701------2)
 - [Deep Learning End to End Pipelines made easy with Fluent Tensorflow Extended](https://towardsdatascience.com/deep-learning-end-to-end-pipelines-made-easy-with-fluent-tensorflow-extended-2a26f5d5817?source=rss-a030fa2f6701------2)
 <!-- BLOG-POST-LIST:END -->
-
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/sv9ylxlw0bjl7d2gqezpg1qvi)
