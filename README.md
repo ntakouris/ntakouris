@@ -2,14 +2,12 @@
 
 *Curiosity X Creativity X Contribution*
 
-[![](https://vistr.dev/badge?repo=ntakouris.ntakouris&corners=square)](https://github.com/ntakouris)
 [![](https://img.shields.io/badge/-Theodoros%20Ntakouris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/theodoros-ntakouris/)](https://www.linkedin.com/in/theodoros-ntakouris/)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=ntakour.is&url=https%3A%2F%2Fntakour.is)](https://ntakour.is)
 
 - 📫 Drop me an email at: `hi@ntakour.is`
 - ⚡ Fun fact: I wrote my first line of hello world Java code, on my `12th` birthday!
 
-<img alt="@ntakouris Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ntakouris&show_icons=true&hide_border=true" />
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
